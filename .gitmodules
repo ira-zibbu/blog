@@ -1,0 +1,13 @@
+[submodule "ira-zibbu-blog/public"]
+	path = ira-zibbu-blog/public
+	url = git@github.com:ira-zibbu/ira-zibbu.github.io.git
+	branch = main
+[submodule "ira-zibbu-blog/themes/themes/hello-friend-ng"]
+	path = ira-zibbu-blog/themes/themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "ira-zibbu-blog/themes/hello-friend-ng"]
+	path = ira-zibbu-blog/themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "ira-zibbu-blog/themes/hugo-PaperMod"]
+	path = ira-zibbu-blog/themes/hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod

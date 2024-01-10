@@ -1,4 +1,0 @@
-baseurl      = "https://ira-zibbu.github.io/"
-title        = "Game of Life"
-languageCode = "en-us"
-theme        = "hugo-PaperMod"

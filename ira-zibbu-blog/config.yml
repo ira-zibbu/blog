@@ -1,0 +1,35 @@
+baseURL: "https://ira-zibbu.github.io/"
+title: Game of Life
+paginate: 10
+theme: hugo-PaperMod
+
+params:
+  defaultTheme: auto # to switch between dark or light according to browser theme
+
+params:
+    profileMode:
+        enabled: true
+        title: "Game of Life" # optional default will be site title
+        subtitle: "Just a person who thinks about  evolution, computers and social justice. Named after the John Conway cellular automation model, not the Hasbro board game."
+       # imageUrl: "<image link>" # optional
+       # imageTitle: "<title of image as alt>" # optional
+        #imageWidth: 120 # custom size
+       # imageHeight: 120 # custom size
+        buttons:
+            - name: Posts
+              url: "/post"
+           # - name: Github
+           #   url: "https://github.com/"
+
+    socialIcons: # optional
+        - name: "Github"
+          url: "https://github.com/ira-zibbu"
+        - name: "Email"
+          url: "ira.zibbu@gmail.com"
+        - name: "Substack"
+          url: "https://irazibbu.substack.com/"
+        - name: "CV"
+          url: "https://drive.google.com/file/d/1CPus7H-YNXoQl6tx3VaZvdQMMrMotUuU/view"
+
+
+

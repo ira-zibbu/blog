@@ -29,7 +29,8 @@ params:
         - name: "Substack"
           url: "https://irazibbu.substack.com/"
         - name: "CV"
-          url: "https://drive.google.com/file/d/1CPus7H-YNXoQl6tx3VaZvdQMMrMotUuU/view"
-
+          url: "https://drive.google.com/file/d/1xGdIagndDkbe2JQ0lypCplTfL8hYaBft/view?usp=sharing"
+        - name: "About Me"
+          url: "https://ira-zibbu.github.io/post/whoami/"
 
 

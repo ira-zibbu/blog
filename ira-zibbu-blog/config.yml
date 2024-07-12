@@ -9,9 +9,9 @@ params:
 params:
     profileMode:
         enabled: true
-        title: "Game of Life" # optional default will be site title
-        subtitle: "Just a person who thinks about  evolution, computers and social justice. Named after the John Conway cellular automation model, not the Hasbro board game."
-       # imageUrl: "<image link>" # optional
+        title: "Ira Zibbu" # optional default will be site title
+        subtitle: "BS-MS at IISER Thiruvananthapuram | Incoming PhD student at University of Texas at Austin. I like thinking about evolution, microbes, genomes, computers and social justice. Named after the John Conway cellular automation model, not the Hasbro game."   
+# imageUrl: "<image link>" # optional
        # imageTitle: "<title of image as alt>" # optional
         #imageWidth: 120 # custom size
        # imageHeight: 120 # custom size
